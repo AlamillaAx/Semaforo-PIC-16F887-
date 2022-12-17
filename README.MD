@@ -1,6 +1,6 @@
 ## SEMAROFO CON PIC 16F887 EN LENGUAJE ENSAMBLADOR
 
-Este programa simula el control de un par de semaforos en un cruce, a petición del profesor se integraron un par de botones, que realizan condiciones especificas al presionar uno u otro, y un tercer caso al presionar ambos. 
+<center>Este programa simula el control de un par de semaforos en un cruce, a petición del profesor se integraron un par de botones, que realizan condiciones especificas al presionar uno u otro, y un tercer caso al presionar ambos. </center>
 
 ![imagen circuito base](/assets/images/circuito_b.jpeg)
 
